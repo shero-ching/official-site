@@ -1,0 +1,19 @@
+title:             SheroChing希罗
+email:             your-email@example.com
+description:       欢迎访问希罗 👏👏👏
+author:            Kiki
+baseurl:           "/"
+url:               "https://www.shero-china.com"
+
+# Social Profiles
+twitter_username:  SBootstrap
+github_username:   shero-ching
+facebook_username: StartBootstrap
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
